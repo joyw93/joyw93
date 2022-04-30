@@ -1,5 +1,15 @@
-### Hi there 👋
+### Tech Stacks
 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+<br/>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joyw93)](https://github.com/joyw93/github-readme-stats)
 <!--
 **joyw93/joyw93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
