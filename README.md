@@ -1,3 +1,7 @@
+### Node.js 개발자 조용원입니다.
+
+<br/>
+
 ### Skills
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -8,8 +12,8 @@
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 <br/>
-<br/>
 
+### Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyw93&theme=vue-dark&show_icons=true)](https://github.com/joyw93/github-readme-stats)
 <!--
 **joyw93/joyw93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
