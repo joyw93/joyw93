@@ -7,7 +7,9 @@
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/Express-%23404d59?style=flat-square&logo=Express&logoColor=white"/>&nbsp
-<img src="https://img.shields.io/badge/Vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D"/>&nbsp
+<img src="https://img.shields.io/badge/Nest-E0234E?style=flat-square&logo=NestJs&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/Vue-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D"/>&nbsp
+<img src="https://img.shields.io/badge/React-%2335495e.svg?style=flat-square&logo=react&logoColor=#61DAFB"/>&nbsp
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/Flask-000000.svg?style=flat-square&logo=Flask&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp
